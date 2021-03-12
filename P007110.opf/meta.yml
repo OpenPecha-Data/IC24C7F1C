@@ -5,11 +5,13 @@ source_metadata:
   title: དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ་སློབ་གསོའི་ལོ་རྒྱུས་དེབ་ཐེར།（༡༩༩༡-༢༠༠༥）
   author: ''
   volumes:
-    5c8085e076cd45e29ad78a8242127f50:
+    320f42a191f54f56b3f12053d4a257a0:
       image_group_id: I4PD4213
-      title: ''
+      title: Volume 1 of dkar mdzes bod rigs rang skyong khul slob gso'i lo rgyus
+        deb ther/（1991-2005）
       volume_number: 1
       total_pages: 314
+      base_file: v001.txt
 ebook_metadata:
   title: དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ་སློབ་གསོའི་ལོ་རྒྱུས་དེབ་ཐེར།（༡༩༩༡-༢༠༠༥）
   author: ''
